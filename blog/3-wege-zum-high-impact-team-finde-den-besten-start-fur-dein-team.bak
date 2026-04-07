@@ -7,15 +7,15 @@
   <meta charset="utf-8" />
   <title>3 Wege zum High Impact Team</title>
   <meta
-    content="HIT Frühstück, Kennenlerngespräch oder Diagnostik – wähle den besten Start für dein Team. Jetzt informieren & loslegen!"
+    content="HIT Frühstück, Kennenlerngespräch oder Diagnostik – wähle den besten Start für dein Team. Jetzt informieren &amp; loslegen!"
     name="description" />
   <meta content="3 Wege zum High Impact Team" property="og:title" />
   <meta
-    content="HIT Frühstück, Kennenlerngespräch oder Diagnostik – wähle den besten Start für dein Team. Jetzt informieren & loslegen!"
+    content="HIT Frühstück, Kennenlerngespräch oder Diagnostik – wähle den besten Start für dein Team. Jetzt informieren &amp; loslegen!"
     property="og:description" />
   <meta content="3 Wege zum High Impact Team" property="twitter:title" />
   <meta
-    content="HIT Frühstück, Kennenlerngespräch oder Diagnostik – wähle den besten Start für dein Team. Jetzt informieren & loslegen!"
+    content="HIT Frühstück, Kennenlerngespräch oder Diagnostik – wähle den besten Start für dein Team. Jetzt informieren &amp; loslegen!"
     property="twitter:description" />
   <meta property="og:type" content="website" />
   <meta content="summary_large_image" name="twitter:card" />
@@ -89,16 +89,21 @@
     <div class="container-blog margin-bottom-0">
       <p>11.6.2025</p>
       <div class="rich-text-blog-head-intro w-richtext">
-        <h1 id=""><strong>3 Wege zum High Impact Team:</strong></h1><h1 id="">Finde den besten Start für dein Team!</h1>
+        <h1><strong>3 Wege zum High Impact Team:</strong></h1>
+        <h1>Finde den besten Start für dein Team!</h1>
       </div>
       <div class="rich-text-blog-head-intro w-richtext">
-        <p id="">Dein Team kann viel mehr, als es gerade zeigt. Du selbst bist bereit und willst etwas ändern. Es ist Zeit für den nächsten Schritt. Aber wie und wo fängst du an? </p><p id="">Wir haben drei Möglichkeiten entwickelt, die dir den Einstieg erleichtern und dein Team auf dem Weg zu einem High Impact Team unterstützen. Entscheide dich für den Weg, der am besten zu euch und eurer Situation passt.</p>
+        <p>Dein Team kann viel mehr, als es gerade zeigt. Du selbst bist bereit und willst etwas ändern. Es ist Zeit für
+          den nächsten Schritt. Aber wie und wo fängst du an? </p>
+        <p>Wir haben drei Möglichkeiten entwickelt, die dir den Einstieg erleichtern und dein Team auf dem Weg zu einem
+          High Impact Team unterstützen. Entscheide dich für den Weg, der am besten zu euch und eurer Situation passt.
+        </p>
       </div>
     </div>
     <div class="wrapper-blog-image"><img
-        src="blog-3_wege_hit.jpg"
+        src="../images/blog/blog-3_wege_hit.jpg"
         loading="lazy" alt="" sizes="100vw"
-        srcset="blog-3_wege_hit_500.jpg 500w, blog-3_wege_hit_800.jpg 800w, blog-3_wege_hit_1080.jpg 1080w, blog-3_wege_hit_1600.jpg 1600w, blog-3_wege_hit_1800.jpg 1800w"
+        srcset="../images/blog/blog-3_wege_hit_500.jpg 500w, ../images/blog/blog-3_wege_hit_800.jpg 800w, ../images/blog/blog-3_wege_hit_1080.jpg 1080w, ../images/blog/blog-3_wege_hit_1600.jpg 1600w, ../images/blog/blog-3_wege_hit_1800.jpg 1800w"
         class="blog-image-big" />
       <div class="credit w-dyn-bind-empty w-richtext"></div>
     </div>
