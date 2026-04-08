@@ -40,23 +40,6 @@
     })(window, document, 'script', 'dataLayer', 'GTM-PBC4V54X');</script>
   <!-- End Google Tag Manager -->
 
-  <script src="https://www.google.com/recaptcha/api.js?render=6LddgzkrAAAAADggVjA9hkn7eCM3MPbo-8os6Ku_"></script>
-
-  <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      grecaptcha.ready(function () {
-        grecaptcha.execute('6LddgzkrAAAAADggVjA9hkn7eCM3MPbo-8os6Ku_', { action: 'homepage' }).then(function (token) {
-          fetch('/verify-captcha', {
-            method: 'POST',
-            headers: {
-              'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({ token: token })
-          });
-        });
-      });
-    });
-  </script>
 </head>
 
 <body>
